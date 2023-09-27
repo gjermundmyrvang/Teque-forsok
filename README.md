@@ -1,0 +1,3 @@
+# Teque-forsok
+Forsøk på å lage teque med dobbellenket liste og en midtpeker, men det fungerer ikke...
+Hvis du finner problemet, gjerne si i fra;)
